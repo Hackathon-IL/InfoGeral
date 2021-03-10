@@ -21,7 +21,7 @@ Cronograma:
 
  Organização:
 
- <img src=https://raw.githubusercontent.com/Hackathon-IL/InfoGeral/gh-pages/Images/rodape.png width="700" height="300"/>
- 
+ <img src=https://raw.githubusercontent.com/Hackathon-IL/InfoGeral/gh-pages/Images/rodape.png width="600" height="200"/>
+
 
 
