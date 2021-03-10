@@ -8,8 +8,9 @@ O Hackathon IL-PCTec é um evento voltado para o desenvolvimento de soluções p
 
 
 
-|     01/03 a 30/30  | [Inscrições](https://hackathon-il.github.io/InfoGeral/#/Inscricoes.md) |  |
+| | | |
 |-------|-------|-------|
+|     01/03 a 30/30  | [Inscrições](https://hackathon-il.github.io/InfoGeral/#/Inscricoes.md) | www.pctec.unb.br |
 |06/04   | Homologação das Inscrições|www.pctec.unb.br |
 |12/04| 	Cerimônia de Abertura e Apresentação do Objetivo | Canal do PCTec no Youtube
 | 13/04 a 15/04| 	Trabalho das Equipes |Remoto
