@@ -1,3 +1,12 @@
 # [ Material de apoio](https://airtable.com/embed/shrQ13JDklfbI1XDh/tbllH1EZHufyX9BPb?backgroundColor=cyan&viewControls=on)
 
-Nessa aba vai está disponivel os principais [materias](https://airtable.com/embed/shrQ13JDklfbI1XDh/tbllH1EZHufyX9BPb?backgroundColor=cyan&viewControls=on) de apoio.
+
+Aqui serão disponibilizados os principais materiais de apoio e conteúdo que podem auxiliar no hackathon. Caso não consiga acessar algum conteúdo, entrar em contato com os mentores técnicos.
+
+
+- Galeria das Publicações completas: podem ser encontradas [aqui](https://airtable.com/embed/shrQ13JDklfbI1XDh/tbllH1EZHufyX9BPb?backgroundColor=cyan&viewControls=on).
+
+- Lista publicações: a lista com o link para as publicações (categorizadas) podem ser acessadas [aqui](https://github.com/Hackathon-IL/InfoGeral/blob/main/docs/Publicações-Gallery.csv)
+
+
+- Links úteis: podem ser acessados [aqui](https://github.com/Hackathon-IL/InfoGeral/blob/main/docs/Links%20Úteis-Grid%20view.csv)
