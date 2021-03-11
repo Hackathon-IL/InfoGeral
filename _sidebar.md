@@ -4,7 +4,7 @@
     - [Material de apoio](/Material-de-apoio.md)
     - [Mentores](/Mentores.md)
     - [Comunicação](/Comunicacao.md)
-    - [FAQ](/Faq.md)
+    
 
 
 
