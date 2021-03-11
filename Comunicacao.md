@@ -1,11 +1,11 @@
-# Meios de Comunicação
+# Comunicação
 
- **Principal meio de comonicação para mentoria.**
+Aqui serão disponibilizados os principais meios de comunicação
 
-[Discord](https://discord.gg/e75gPWrV)
+* Principal meio de comunicação: 
+    * [Discord](https://discord.gg/e75gPWrV)
 
-**Meio de comunicação com a equipe.**
+* Meio de comunicação com a equipe
+    * e-mail- pctec@unb.br 
 
-e-mail- pctec@unb.br 
-
-WhatsApp - (61) 3107-4119
+    * WhatsApp - (61) 3107-4119
