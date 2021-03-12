@@ -10,3 +10,7 @@ Aqui serão disponibilizados os principais materiais de apoio e conteúdo que po
 
 
 - Links úteis: podem ser acessados [aqui](https://github.com/Hackathon-IL/InfoGeral/blob/main/docs/Links%20Úteis-Grid%20view.csv)
+
+- Links para os logotipos: aceese [aqui](https://github.com/Hackathon-IL/InfoGeral/tree/gh-pages/Images/logotipos/)
+     
+
