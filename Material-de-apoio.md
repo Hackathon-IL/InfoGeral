@@ -9,8 +9,10 @@ Aqui serão disponibilizados os principais materiais de apoio e conteúdo que po
 - Lista publicações: a lista com o link para as publicações (categorizadas) podem ser acessadas [aqui](https://github.com/Hackathon-IL/InfoGeral/blob/main/docs/Publicações-Gallery.csv)
 
 
-- Links úteis: podem ser acessados [aqui](https://github.com/Hackathon-IL/InfoGeral/blob/main/docs/Links%20Úteis-Grid%20view.csv)
+- Links úteis: podem ser acessados: [aqui](https://github.com/Hackathon-IL/InfoGeral/blob/main/docs/Links%20Úteis-Grid%20view.csv)
 
-- Links para a logo e o banner: podem ser acessados [aqui](https://github.com/Hackathon-IL/InfoGeral/tree/gh-pages/Images/Logotipos)
+- Links para a logo e o banner:
+  * [Logo](https://drive.google.com/file/d/1noQmwmpiyilGuzXj5MwQcgroHW6W11pG/view) 
+  * [Banner](https://drive.google.com/file/d/12McZibC5qIO-nW8tTcc_eP_SZsB8woT4/view?usp=sharing)
      
 
